@@ -1,0 +1,467 @@
+{
+  "name": "Black Bronze",
+  "description": "No description",
+  "quests": [
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 189,
+      "y": 43,
+      "icon": {
+        "id": "terrafirmacraft:item.Black Bronze Pick"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Pick"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze ProPick"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Saw"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 277,
+      "y": 90,
+      "icon": {
+        "id": "terrafirmacraft:item.Black Bronze Axe"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Axe"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Knife"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Shovel"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 189,
+      "y": 89,
+      "icon": {
+        "id": "terrafirmacraft:item.Black Bronze Chisel"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Chisel"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Hammer"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Hoe"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Scythe"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 111,
+      "y": 46,
+      "icon": {
+        "id": "terrafirmacraft:Anvil2",
+        "damage": 2
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:Anvil2",
+                "damage": 2
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 276,
+      "y": 44,
+      "icon": {
+        "id": "terrafirmacraft:item.Black Bronze Sword"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Sword"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Mace"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Javelin"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 233,
+      "y": 19,
+      "icon": {
+        "id": "terrafirmacraft:item.Black Bronze Helmet"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Helmet"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 234,
+      "y": 56,
+      "icon": {
+        "id": "terrafirmacraft:item.Black Bronze Chestplate"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Chestplate"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 233,
+      "y": 97,
+      "icon": {
+        "id": "terrafirmacraft:item.Black Bronze Greaves"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Greaves"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 232,
+      "y": 138,
+      "icon": {
+        "id": "terrafirmacraft:item.Black Bronze Boots"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Boots"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 43,
+      "y": 49,
+      "icon": {
+        "id": "terrafirmacraft:item.Black Bronze Ingot"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Double Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts"
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 76,
+      "y": 95,
+      "icon": {
+        "id": "terrafirmacraft:item.Black Bronze Sheet"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Double Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Black Bronze Tuyere"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 27,
+      "y": 140,
+      "icon": {
+        "id": "terrafirmacraft:item.Ore",
+        "damage": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Small Ore",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 50
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 36
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 123,
+      "y": 135,
+      "icon": {
+        "id": "terrafirmacraft:item.Ore",
+        "damage": 4
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Small Ore",
+                "damage": 4
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 53
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 4
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 39
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    }
+  ]
+}

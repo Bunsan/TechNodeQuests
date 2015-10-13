@@ -1,0 +1,529 @@
+{
+  "name": "Wrought Iron",
+  "description": "No description",
+  "quests": [
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 189,
+      "y": 43,
+      "icon": {
+        "id": "terrafirmacraft:item.Wrought Iron Pick"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Pick"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron ProPick"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Saw"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 277,
+      "y": 90,
+      "icon": {
+        "id": "terrafirmacraft:item.Wrought Iron Axe"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Axe"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Knife"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Shovel"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 189,
+      "y": 89,
+      "icon": {
+        "id": "terrafirmacraft:item.Wrought Iron Chisel"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Chisel"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Hammer"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Hoe"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Scythe"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 111,
+      "y": 46,
+      "icon": {
+        "id": "terrafirmacraft:Anvil",
+        "damage": 3
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:Anvil",
+                "damage": 3
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 276,
+      "y": 44,
+      "icon": {
+        "id": "terrafirmacraft:item.Wrought Iron Sword"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Sword"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Mace"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Javelin"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 233,
+      "y": 19,
+      "icon": {
+        "id": "terrafirmacraft:item.Wrought Iron Helmet"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Helmet"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 234,
+      "y": 56,
+      "icon": {
+        "id": "terrafirmacraft:item.Wrought Iron Chestplate"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Chestplate"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 233,
+      "y": 97,
+      "icon": {
+        "id": "terrafirmacraft:item.Wrought Iron Greaves"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Greaves"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 232,
+      "y": 138,
+      "icon": {
+        "id": "terrafirmacraft:item.Wrought Iron Boots"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Boots"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 43,
+      "y": 49,
+      "icon": {
+        "id": "terrafirmacraft:item.Wrought Iron Ingot"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Double Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts"
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 76,
+      "y": 95,
+      "icon": {
+        "id": "terrafirmacraft:item.Wrought Iron Sheet"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Double Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Wrought Iron Tuyere"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 27,
+      "y": 140,
+      "icon": {
+        "id": "terrafirmacraft:item.Ore",
+        "damage": 3
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Small Ore",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 52
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 38
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 76,
+      "y": 173,
+      "icon": {
+        "id": "terrafirmacraft:item.Ore",
+        "damage": 11
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Small Ore",
+                "damage": 11
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 60
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 11
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 46
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 123,
+      "y": 135,
+      "icon": {
+        "id": "terrafirmacraft:item.Ore",
+        "damage": 10
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Small Ore",
+                "damage": 10
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 59
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 10
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 45
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 76,
+      "y": 13,
+      "icon": {
+        "id": "terrafirmacraft:EarlyBloomery"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:EarlyBloomery"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "name": "Foot in the Door",
+  "description": "Well you only have one life to live so you better get moving. Don\u0027t worry you\u0027ll gain some buffer soon enough.",
+  "quests": [
+    {
+      "name": "Starting Tools",
+      "description": "Craft all stone tools",
+      "x": 77,
+      "y": 46,
+      "icon": {
+        "id": "terrafirmacraft:item.LooseRock",
+        "damage": 12
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "You gotta start somewhere.",
+          "longDescription": "Craft all the different tools. Will detect tools made with any rock type.",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.IgIn Stone Axe"
+              },
+              "precision": "ORE_DICTIONARY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.IgIn Stone Shovel"
+              },
+              "precision": "ORE_DICTIONARY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Stone Knife"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Stone Hammer"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.IgIn Stone Javelin"
+              },
+              "precision": "ORE_DICTIONARY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.IgIn Stone Hoe"
+              },
+              "precision": "ORE_DICTIONARY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
+      ]
+    },
+    {
+      "name": "The Basics",
+      "description": "Don\u0027t Burn down the Hovel",
+      "x": 49,
+      "y": 165,
+      "icon": {
+        "id": "terrafirmacraft:item.Small Vessel",
+        "damage": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "First Pottery",
+          "longDescription": "Time for your first Pit Kiln. You\u0027ll complete this task by just picking up the items.",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Small Vessel",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:Vessel",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Jug",
+                "damage": 1
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.ClayBowl",
+                "damage": 1
+              },
+              "required": 2
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
+      ]
+    },
+    {
+      "name": "Just the Basics",
+      "description": "First Molds",
+      "x": 104,
+      "y": 163,
+      "icon": {
+        "id": "terrafirmacraft:item.Pick Mold",
+        "damage": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Tier Up Time",
+          "longDescription": "Make the molds for your first tools. Just pick up the molds to complete the task.",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Pick Mold",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.ProPick Mold",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Saw Mold",
+                "damage": 1
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Home Sweet Home?",
+      "description": "Setting Spawn",
+      "x": 21,
+      "y": 106,
+      "icon": {
+        "id": "terrafirmacraft:item.Hide",
+        "damage": 2
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Sleep when you\u0027re Dead",
+          "longDescription": "Just find the makings of your first bed. You can\u0027t rest now your life is too precious.",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Hide",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:Thatch"
+              },
+              "required": 2
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
+      ]
+    },
+    {
+      "name": "Fire is a Start",
+      "description": "Get a fire going",
+      "x": 133,
+      "y": 103,
+      "icon": {
+        "id": "minecraft:fire"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "Fire Fire",
+          "longDescription": "Get a fire going and get some torches lit. It is going to be a long night.",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Firestarter"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:Torch"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
+      ]
+    },
+    {
+      "name": "Real Tools",
+      "description": "Metal Tools",
+      "x": 228,
+      "y": 38,
+      "icon": {
+        "id": "terrafirmacraft:item.Copper Pick"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "Casting Tools",
+          "longDescription": "Copper or Bronze tools will be detected.",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Copper Pick"
+              },
+              "precision": "ORE_DICTIONARY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Copper ProPick"
+              },
+              "precision": "ORE_DICTIONARY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Copper Saw"
+              },
+              "precision": "ORE_DICTIONARY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "A New Age",
+      "description": "Craft Copper Anvil",
+      "x": 273,
+      "y": 97,
+      "icon": {
+        "id": "terrafirmacraft:Anvil",
+        "damage": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "description": "Tier Two for You",
+          "longDescription": "The first of many anvils.",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:Anvil",
+                "damage": 1
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 186,
+      "y": 95,
+      "icon": {
+        "id": "terrafirmacraft:Workbench"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:Workbench"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:Chest TFC"
+              },
+              "precision": "ORE_DICTIONARY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:Barrel"
+              },
+              "precision": "ORE_DICTIONARY"
+            }
+          ]
+        }
+      ],
+      "rewardChoice": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
+      ]
+    }
+  ]
+}

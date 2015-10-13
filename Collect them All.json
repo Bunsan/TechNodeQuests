@@ -1,0 +1,825 @@
+{
+  "name": "Collect them All",
+  "description": "No description",
+  "quests": [
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 34,
+      "y": 24,
+      "icon": {
+        "id": "terrafirmacraft:item.Log",
+        "damage": 15
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Log"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Log",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Log",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Log",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Log",
+                "damage": 4
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Log",
+                "damage": 5
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Log",
+                "damage": 6
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Log",
+                "damage": 7
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Log",
+                "damage": 8
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Log",
+                "damage": 9
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Log",
+                "damage": 10
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Log",
+                "damage": 11
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Log",
+                "damage": 12
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Log",
+                "damage": 13
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Log",
+                "damage": 14
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Log",
+                "damage": 15
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Log",
+                "damage": 16
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 81,
+      "y": 25,
+      "icon": {
+        "id": "terrafirmacraft:sapling",
+        "damage": 9
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:sapling"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:sapling",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:sapling",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:sapling",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:sapling",
+                "damage": 4
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:sapling",
+                "damage": 5
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:sapling",
+                "damage": 6
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:sapling",
+                "damage": 7
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:sapling",
+                "damage": 8
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:sapling",
+                "damage": 9
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:sapling",
+                "damage": 10
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:sapling",
+                "damage": 11
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:sapling",
+                "damage": 12
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:sapling",
+                "damage": 13
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:sapling",
+                "damage": 14
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 127,
+      "y": 27,
+      "icon": {
+        "id": "terrafirmacraft:item.LooseRock",
+        "damage": 20
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 4
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 5
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 6
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 7
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 8
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 9
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 10
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 11
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 12
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 13
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 14
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 15
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 16
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 17
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 18
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 19
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.LooseRock",
+                "damage": 20
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3,
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 54,
+      "y": 61,
+      "icon": {
+        "id": "terrafirmacraft:item.FruitSapling",
+        "damage": 7
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.FruitSapling"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.FruitSapling",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.FruitSapling",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.FruitSapling",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.FruitSapling",
+                "damage": 4
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.FruitSapling",
+                "damage": 5
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.FruitSapling",
+                "damage": 6
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.FruitSapling",
+                "damage": 7
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.FruitSapling",
+                "damage": 8
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 104,
+      "y": 64,
+      "icon": {
+        "id": "terrafirmacraft:item.Seeds Jute"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Wheat"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Barley"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Rye"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Oat"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Rice"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Maize"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Potato"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Onion"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Cabbage"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Garlic"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Carrot"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Sugarcane"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Tomato"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Yellow Bell Pepper"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Red Bell Pepper"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Soybean"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Greenbean"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Squash"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Seeds Jute"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 43,
+      "y": 122,
+      "icon": {
+        "id": "terrafirmacraft:item.Ore",
+        "damage": 16
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.coal"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 16
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 20
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 27
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 28
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 36,
+      "y": 179,
+      "icon": {
+        "id": "terrafirmacraft:item.Ore",
+        "damage": 6
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Small Ore",
+                "damage": 6
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 55
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 6
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 41
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 107,
+      "y": 178,
+      "icon": {
+        "id": "terrafirmacraft:item.Ore",
+        "damage": 2
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Small Ore",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 51
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 37
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 115,
+      "y": 120,
+      "icon": {
+        "id": "terrafirmacraft:item.Sterling Silver Ingot"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Brass Ingot"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Sterling Silver Ingot"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Rose Gold Ingot"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 70,
+      "y": 149,
+      "icon": {
+        "id": "terrafirmacraft:item.Ore",
+        "damage": 17
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 17
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 24
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 26
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 73,
+      "y": 120,
+      "icon": {
+        "id": "terrafirmacraft:item.Ore",
+        "damage": 31
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 31
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 32
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Powder",
+                "damage": 4
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Powder",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ore",
+                "damage": 34
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
