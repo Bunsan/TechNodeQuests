@@ -319,7 +319,12 @@
                 "id": "terrafirmacraft:item.Copper Ingot"
               },
               "precision": "NBT_FUZZY"
-            },
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "items": [
             {
               "item": {
                 "id": "terrafirmacraft:item.Copper Double Ingot"
@@ -345,7 +350,7 @@
       },
       "tasks": [
         {
-          "type": "CRAFT",
+          "type": "DETECT",
           "items": [
             {
               "item": {

@@ -1,0 +1,218 @@
+{
+  "name": "Leather",
+  "description": "No description",
+  "quests": [
+    {
+      "name": "Small Hide",
+      "description": "Unnamed quest",
+      "x": 32,
+      "y": 30,
+      "icon": {
+        "id": "terrafirmacraft:item.Hide"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Hide"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Soaked Hide"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Scraped Hide"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Prep Hide"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Medium Hide",
+      "description": "Unnamed quest",
+      "x": 87,
+      "y": 31,
+      "icon": {
+        "id": "terrafirmacraft:item.Hide",
+        "damage": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Hide",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Soaked Hide",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Scraped Hide",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Prep Hide",
+                "damage": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Large Hide",
+      "description": "Unnamed quest",
+      "x": 134,
+      "y": 30,
+      "icon": {
+        "id": "terrafirmacraft:item.Hide",
+        "damage": 2
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Hide",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Soaked Hide",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Scraped Hide",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Prep Hide",
+                "damage": 2
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 84,
+      "y": 87,
+      "icon": {
+        "id": "terrafirmacraft:item.TFC Leather"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Leather",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.TFC Leather"
+              }
+            }
+          ]
+        },
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:Bellows"
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:item_frame"
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:saddle"
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:book"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Quiver"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 74,
+      "y": 132,
+      "icon": {
+        "id": "terrafirmacraft:item.chestplateCloth"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.helmetCloth"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.chestplateCloth"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.leggingsCloth"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.bootsCloth"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
+      ]
+    }
+  ]
+}

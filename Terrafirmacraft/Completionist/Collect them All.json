@@ -244,136 +244,152 @@
       "x": 127,
       "y": 27,
       "icon": {
-        "id": "terrafirmacraft:item.LooseRock",
-        "damage": 20
+        "id": "terrafirmacraft:StoneIgEx",
+        "damage": 3
       },
       "tasks": [
         {
           "type": "DETECT",
+          "description": "Sedimentary",
           "items": [
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock"
+                "id": "terrafirmacraft:StoneSed"
               }
             },
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock",
+                "id": "terrafirmacraft:StoneSed",
                 "damage": 1
               }
             },
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock",
+                "id": "terrafirmacraft:StoneSed",
                 "damage": 2
               }
             },
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock",
+                "id": "terrafirmacraft:StoneSed",
                 "damage": 3
               }
             },
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock",
+                "id": "terrafirmacraft:StoneSed",
                 "damage": 4
               }
             },
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock",
+                "id": "terrafirmacraft:StoneSed",
                 "damage": 5
               }
             },
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock",
+                "id": "terrafirmacraft:StoneSed",
                 "damage": 6
               }
             },
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock",
+                "id": "terrafirmacraft:StoneSed",
                 "damage": 7
               }
-            },
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "description": "Metamorphic",
+          "items": [
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock",
-                "damage": 8
+                "id": "terrafirmacraft:StoneMM"
               }
             },
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock",
-                "damage": 9
+                "id": "terrafirmacraft:StoneMM",
+                "damage": 1
               }
             },
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock",
-                "damage": 10
+                "id": "terrafirmacraft:StoneMM",
+                "damage": 2
               }
             },
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock",
-                "damage": 11
+                "id": "terrafirmacraft:StoneMM",
+                "damage": 3
               }
             },
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock",
-                "damage": 12
+                "id": "terrafirmacraft:StoneMM",
+                "damage": 4
               }
             },
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock",
-                "damage": 13
+                "id": "terrafirmacraft:StoneMM",
+                "damage": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "description": "Igneous Intrusive",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:StoneIgIn"
               }
             },
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock",
-                "damage": 14
+                "id": "terrafirmacraft:StoneIgIn",
+                "damage": 1
               }
             },
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock",
-                "damage": 15
+                "id": "terrafirmacraft:StoneIgIn",
+                "damage": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "description": "Igneous Extrusive",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:StoneIgEx"
               }
             },
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock",
-                "damage": 16
+                "id": "terrafirmacraft:StoneIgEx",
+                "damage": 1
               }
             },
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock",
-                "damage": 17
+                "id": "terrafirmacraft:StoneIgEx",
+                "damage": 2
               }
             },
             {
               "item": {
-                "id": "terrafirmacraft:item.LooseRock",
-                "damage": 18
-              }
-            },
-            {
-              "item": {
-                "id": "terrafirmacraft:item.LooseRock",
-                "damage": 19
-              }
-            },
-            {
-              "item": {
-                "id": "terrafirmacraft:item.LooseRock",
-                "damage": 20
+                "id": "terrafirmacraft:StoneIgEx",
+                "damage": 3
               }
             }
           ]

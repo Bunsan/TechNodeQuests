@@ -1,0 +1,617 @@
+{
+  "name": "Gems",
+  "description": "No description",
+  "quests": [
+    {
+      "name": "Ruby",
+      "description": "Unnamed quest",
+      "x": 182,
+      "y": 106,
+      "icon": {
+        "id": "terrafirmacraft:item.Ruby",
+        "damage": 4
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Ruby",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ruby"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ruby",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ruby",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ruby",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Ruby",
+                "damage": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sapphire",
+      "description": "Unnamed quest",
+      "x": 138,
+      "y": 59,
+      "icon": {
+        "id": "terrafirmacraft:item.Sapphire",
+        "damage": 4
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Sapphire",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Sapphire"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Sapphire",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Sapphire",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Sapphire",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Sapphire",
+                "damage": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Emerald",
+      "description": "Unnamed quest",
+      "x": 26,
+      "y": 59,
+      "icon": {
+        "id": "terrafirmacraft:item.Emerald",
+        "damage": 4
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Emerald",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Emerald"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Emerald",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Emerald",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Emerald",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Emerald",
+                "damage": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Topaz",
+      "description": "Unnamed quest",
+      "x": 21,
+      "y": 123,
+      "icon": {
+        "id": "terrafirmacraft:item.Topaz",
+        "damage": 4
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Topaz",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Topaz"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Topaz",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Topaz",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Topaz",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Topaz",
+                "damage": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tourmaline",
+      "description": "Unnamed quest",
+      "x": 63,
+      "y": 176,
+      "icon": {
+        "id": "terrafirmacraft:item.Tourmaline",
+        "damage": 4
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Tourmaline",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Tourmaline"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Tourmaline",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Tourmaline",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Tourmaline",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Tourmaline",
+                "damage": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jade",
+      "description": "Unnamed quest",
+      "x": 128,
+      "y": 141,
+      "icon": {
+        "id": "terrafirmacraft:item.Jade",
+        "damage": 4
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Jade",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Jade"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Jade",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Jade",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Jade",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Jade",
+                "damage": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beryl",
+      "description": "Unnamed quest",
+      "x": 286,
+      "y": 112,
+      "icon": {
+        "id": "terrafirmacraft:item.Beryl",
+        "damage": 4
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Beryl",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Beryl"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Beryl",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Beryl",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Beryl",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Beryl",
+                "damage": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Agate",
+      "description": "Unnamed quest",
+      "x": 233,
+      "y": 155,
+      "icon": {
+        "id": "terrafirmacraft:item.Agate",
+        "damage": 4
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Agate",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Agate"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Agate",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Agate",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Agate",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Agate",
+                "damage": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Opal",
+      "description": "Unnamed quest",
+      "x": 283,
+      "y": 60,
+      "icon": {
+        "id": "terrafirmacraft:item.Opal",
+        "damage": 4
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Opal",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Opal"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Opal",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Opal",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Opal",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Opal",
+                "damage": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Garnet",
+      "description": "Unnamed quest",
+      "x": 234,
+      "y": 28,
+      "icon": {
+        "id": "terrafirmacraft:item.Garnet",
+        "damage": 4
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Garnet",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Garnet"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Garnet",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Garnet",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Garnet",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Garnet",
+                "damage": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jasper",
+      "description": "Unnamed quest",
+      "x": 190,
+      "y": 52,
+      "icon": {
+        "id": "terrafirmacraft:item.Jasper",
+        "damage": 4
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Jasper",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Jasper"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Jasper",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Jasper",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Jasper",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Jasper",
+                "damage": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amethyst",
+      "description": "Unnamed quest",
+      "x": 86,
+      "y": 22,
+      "icon": {
+        "id": "terrafirmacraft:item.Amethyst",
+        "damage": 4
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Amethyst",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Amethyst"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Amethyst",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Amethyst",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Amethyst",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Amethyst",
+                "damage": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diamond",
+      "description": "Unnamed quest",
+      "x": 78,
+      "y": 94,
+      "icon": {
+        "id": "terrafirmacraft:item.Diamond",
+        "damage": 4
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Diamond",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Diamond"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Diamond",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Diamond",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Diamond",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Diamond",
+                "damage": 4
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
