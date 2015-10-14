@@ -1,0 +1,585 @@
+{
+  "name": "Smelting and Melting",
+  "description": "No description",
+  "quests": [
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 37,
+      "y": 27,
+      "icon": {
+        "id": "terrafirmacraft:item.Gold Ingot"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Gold Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Gold Double Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Gold Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Gold Double Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts"
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 101,
+      "y": 27,
+      "icon": {
+        "id": "terrafirmacraft:item.Silver Ingot"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Silver Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Silver Double Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Silver Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Silver Double Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts"
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 34,
+      "y": 80,
+      "icon": {
+        "id": "terrafirmacraft:item.Platinum Ingot"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Platinum Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Platinum Double Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Platinum Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Platinum Double Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts"
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 101,
+      "y": 79,
+      "icon": {
+        "id": "terrafirmacraft:item.Bismuth Ingot"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Bismuth Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Bismuth Double Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Bismuth Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Bismuth Double Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts"
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 30,
+      "y": 133,
+      "icon": {
+        "id": "terrafirmacraft:item.Zinc Ingot"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Zinc Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Zinc Double Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Zinc Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Zinc Double Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts"
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 98,
+      "y": 130,
+      "icon": {
+        "id": "terrafirmacraft:item.Tin Ingot"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Tin Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Tin Double Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Tin Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Tin Double Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts"
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 197,
+      "y": 24,
+      "icon": {
+        "id": "terrafirmacraft:item.Nickel Ingot"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Nickel Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Nickel Double Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Nickel Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Nickel Double Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts"
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 264,
+      "y": 28,
+      "icon": {
+        "id": "terrafirmacraft:item.Lead Ingot"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Lead Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Lead Double Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Lead Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Lead Double Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts"
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 198,
+      "y": 79,
+      "icon": {
+        "id": "terrafirmacraft:item.Pig Iron Ingot"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Pig Iron Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Pig Iron Double Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Pig Iron Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Pig Iron Double Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts"
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 262,
+      "y": 76,
+      "icon": {
+        "id": "terrafirmacraft:item.Brass Ingot"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Brass Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Brass Double Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Brass Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Brass Double Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts"
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 204,
+      "y": 131,
+      "icon": {
+        "id": "terrafirmacraft:item.Sterling Silver Ingot"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Sterling Silver Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Sterling Silver Double Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Sterling Silver Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Sterling Silver Double Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts"
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 265,
+      "y": 130,
+      "icon": {
+        "id": "terrafirmacraft:item.Rose Gold Ingot"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Rose Gold Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Rose Gold Double Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Rose Gold Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Rose Gold Double Sheet"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        },
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:Anvil2"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 72,
+      "y": 165,
+      "icon": {
+        "id": "terrafirmacraft:item.Unknown Ingot"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Unknown Ingot"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 4
+        }
+      ]
+    }
+  ]
+}

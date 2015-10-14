@@ -5,8 +5,8 @@
     {
       "name": "Ruby",
       "description": "Unnamed quest",
-      "x": 182,
-      "y": 106,
+      "x": 26,
+      "y": 91,
       "icon": {
         "id": "terrafirmacraft:item.Ruby",
         "damage": 4
@@ -47,13 +47,19 @@
             }
           ]
         }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
       ]
     },
     {
       "name": "Sapphire",
       "description": "Unnamed quest",
-      "x": 138,
-      "y": 59,
+      "x": 128,
+      "y": 33,
       "icon": {
         "id": "terrafirmacraft:item.Sapphire",
         "damage": 4
@@ -94,13 +100,19 @@
             }
           ]
         }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
       ]
     },
     {
       "name": "Emerald",
       "description": "Unnamed quest",
-      "x": 26,
-      "y": 59,
+      "x": 59,
+      "y": 34,
       "icon": {
         "id": "terrafirmacraft:item.Emerald",
         "damage": 4
@@ -141,13 +153,19 @@
             }
           ]
         }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
       ]
     },
     {
       "name": "Topaz",
       "description": "Unnamed quest",
-      "x": 21,
-      "y": 123,
+      "x": 179,
+      "y": 82,
       "icon": {
         "id": "terrafirmacraft:item.Topaz",
         "damage": 4
@@ -188,13 +206,19 @@
             }
           ]
         }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
       ]
     },
     {
       "name": "Tourmaline",
       "description": "Unnamed quest",
-      "x": 63,
-      "y": 176,
+      "x": 118,
+      "y": 144,
       "icon": {
         "id": "terrafirmacraft:item.Tourmaline",
         "damage": 4
@@ -235,13 +259,19 @@
             }
           ]
         }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
       ]
     },
     {
       "name": "Jade",
       "description": "Unnamed quest",
-      "x": 128,
-      "y": 141,
+      "x": 207,
+      "y": 125,
       "icon": {
         "id": "terrafirmacraft:item.Jade",
         "damage": 4
@@ -282,13 +312,19 @@
             }
           ]
         }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
       ]
     },
     {
       "name": "Beryl",
       "description": "Unnamed quest",
-      "x": 286,
-      "y": 112,
+      "x": 268,
+      "y": 34,
       "icon": {
         "id": "terrafirmacraft:item.Beryl",
         "damage": 4
@@ -329,13 +365,19 @@
             }
           ]
         }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
       ]
     },
     {
       "name": "Agate",
       "description": "Unnamed quest",
-      "x": 233,
-      "y": 155,
+      "x": 277,
+      "y": 124,
       "icon": {
         "id": "terrafirmacraft:item.Agate",
         "damage": 4
@@ -376,13 +418,19 @@
             }
           ]
         }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
       ]
     },
     {
       "name": "Opal",
       "description": "Unnamed quest",
-      "x": 283,
-      "y": 60,
+      "x": 47,
+      "y": 144,
       "icon": {
         "id": "terrafirmacraft:item.Opal",
         "damage": 4
@@ -423,13 +471,19 @@
             }
           ]
         }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
       ]
     },
     {
       "name": "Garnet",
       "description": "Unnamed quest",
-      "x": 234,
-      "y": 28,
+      "x": 205,
+      "y": 34,
       "icon": {
         "id": "terrafirmacraft:item.Garnet",
         "damage": 4
@@ -470,13 +524,19 @@
             }
           ]
         }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
       ]
     },
     {
       "name": "Jasper",
       "description": "Unnamed quest",
-      "x": 190,
-      "y": 52,
+      "x": 288,
+      "y": 78,
       "icon": {
         "id": "terrafirmacraft:item.Jasper",
         "damage": 4
@@ -517,13 +577,19 @@
             }
           ]
         }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
       ]
     },
     {
       "name": "Amethyst",
       "description": "Unnamed quest",
-      "x": 86,
-      "y": 22,
+      "x": 129,
+      "y": 89,
       "icon": {
         "id": "terrafirmacraft:item.Amethyst",
         "damage": 4
@@ -564,13 +630,19 @@
             }
           ]
         }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
       ]
     },
     {
       "name": "Diamond",
       "description": "Unnamed quest",
-      "x": 78,
-      "y": 94,
+      "x": 82,
+      "y": 91,
       "icon": {
         "id": "terrafirmacraft:item.Diamond",
         "damage": 4
@@ -610,6 +682,12 @@
               }
             }
           ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
         }
       ]
     }

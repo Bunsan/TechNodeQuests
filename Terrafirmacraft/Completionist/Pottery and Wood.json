@@ -218,8 +218,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 233,
-      "y": 14,
+      "x": 189,
+      "y": 55,
       "icon": {
         "id": "terrafirmacraft:item.Ash Door"
       },
@@ -433,8 +433,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 188,
-      "y": 59,
+      "x": 211,
+      "y": 20,
       "icon": {
         "id": "terrafirmacraft:Chest TFC",
         "damage": 6
@@ -557,8 +557,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 258,
-      "y": 62,
+      "x": 253,
+      "y": 20,
       "icon": {
         "id": "terrafirmacraft:Barrel",
         "damage": 12
@@ -681,8 +681,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 188,
-      "y": 103,
+      "x": 236,
+      "y": 81,
       "icon": {
         "id": "terrafirmacraft:WoodSupportV",
         "damage": 5
@@ -1017,8 +1017,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 269,
-      "y": 20,
+      "x": 275,
+      "y": 53,
       "icon": {
         "id": "terrafirmacraft:ArmourStand",
         "damage": 9
@@ -1248,8 +1248,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 245,
-      "y": 115,
+      "x": 192,
+      "y": 106,
       "icon": {
         "id": "minecraft:ladder"
       },
@@ -1274,22 +1274,22 @@
             },
             {
               "item": {
-                "id": "minecraft:painting"
-              }
-            },
-            {
-              "item": {
-                "id": "minecraft:item_frame"
-              }
-            },
-            {
-              "item": {
                 "id": "terrafirmacraft:Bookshelf"
               }
             },
             {
               "item": {
                 "id": "terrafirmacraft:item.Wooden Bucket Empty"
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:sign"
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:painting"
               }
             }
           ]
@@ -1305,8 +1305,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 202,
-      "y": 150,
+      "x": 273,
+      "y": 105,
       "icon": {
         "id": "minecraft:redstone"
       },
@@ -1356,6 +1356,64 @@
         {
           "id": "HardcoreQuesting:hearts",
           "damage": 3
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 258,
+      "y": 150,
+      "icon": {
+        "id": "minecraft:boat"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:boat"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.fishingRod"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts"
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 209,
+      "y": 151,
+      "icon": {
+        "id": "terrafirmacraft:item.SluiceItem"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.SluiceItem"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 4
         }
       ]
     }

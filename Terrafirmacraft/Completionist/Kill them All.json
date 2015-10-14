@@ -5,8 +5,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 38,
-      "y": 32,
+      "x": 29,
+      "y": 41,
       "icon": {
         "id": "terrafirmacraft:item.Beef",
         "nbt": "{foodWeight:160.0f,foodDecay:-24.0f,decayTimer:2368}"
@@ -34,8 +34,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 78,
-      "y": 34,
+      "x": 75,
+      "y": 13,
       "icon": {
         "id": "terrafirmacraft:item.Porkchop",
         "nbt": "{foodWeight:160.0f,foodDecay:-24.0f,decayTimer:2369}"
@@ -63,8 +63,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 117,
-      "y": 32,
+      "x": 124,
+      "y": 40,
       "icon": {
         "id": "terrafirmacraft:item.Mutton",
         "nbt": "{foodWeight:160.0f,foodDecay:-24.0f,decayTimer:2369}"
@@ -92,8 +92,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 41,
-      "y": 74,
+      "x": 55,
+      "y": 85,
       "icon": {
         "id": "terrafirmacraft:item.Chicken",
         "nbt": "{foodWeight:160.0f,foodDecay:-24.0f,decayTimer:2370}"
@@ -113,16 +113,15 @@
       ],
       "reward": [
         {
-          "id": "HardcoreQuesting:hearts",
-          "damage": 3
+          "id": "HardcoreQuesting:hearts"
         }
       ]
     },
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 91,
-      "y": 74,
+      "x": 100,
+      "y": 85,
       "icon": {
         "id": "terrafirmacraft:item.Venison",
         "nbt": "{foodWeight:160.0f,foodDecay:-24.0f,decayTimer:2376}"
@@ -142,16 +141,15 @@
       ],
       "reward": [
         {
-          "id": "HardcoreQuesting:hearts",
-          "damage": 3
+          "id": "HardcoreQuesting:hearts"
         }
       ]
     },
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 38,
-      "y": 112,
+      "x": 29,
+      "y": 129,
       "icon": {
         "id": "minecraft:saddle"
       },
@@ -178,8 +176,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 91,
-      "y": 108,
+      "x": 121,
+      "y": 131,
       "icon": {
         "id": "terrafirmacraft:item.egg",
         "nbt": "{foodWeight:2.0f,foodDecay:-24.0f,decayTimer:2372}"
@@ -207,8 +205,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 195,
-      "y": 33,
+      "x": 189,
+      "y": 38,
       "icon": {
         "id": "minecraft:skull",
         "damage": 2
@@ -234,8 +232,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 245,
-      "y": 34,
+      "x": 232,
+      "y": 18,
       "icon": {
         "id": "minecraft:skull"
       },
@@ -261,8 +259,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 284,
-      "y": 34,
+      "x": 272,
+      "y": 38,
       "icon": {
         "id": "minecraft:skull",
         "damage": 4
@@ -289,8 +287,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 198,
-      "y": 77,
+      "x": 193,
+      "y": 97,
       "icon": {
         "id": "minecraft:ender_pearl"
       },
@@ -316,8 +314,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 261,
-      "y": 77,
+      "x": 274,
+      "y": 97,
       "icon": {
         "id": "minecraft:slime_ball"
       },
@@ -337,15 +335,15 @@
       "reward": [
         {
           "id": "HardcoreQuesting:hearts",
-          "damage": 1
+          "damage": 3
         }
       ]
     },
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 35,
-      "y": 174,
+      "x": 206,
+      "y": 147,
       "icon": {
         "id": "minecraft:bone"
       },
@@ -365,15 +363,15 @@
       "reward": [
         {
           "id": "HardcoreQuesting:hearts",
-          "damage": 3
+          "damage": 1
         }
       ]
     },
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 101,
-      "y": 175,
+      "x": 263,
+      "y": 146,
       "icon": {
         "id": "terrafirmacraft:item.Hide",
         "damage": 2
@@ -394,15 +392,15 @@
       "reward": [
         {
           "id": "HardcoreQuesting:hearts",
-          "damage": 3
+          "damage": 1
         }
       ]
     },
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 229,
-      "y": 115,
+      "x": 234,
+      "y": 69,
       "icon": {
         "id": "minecraft:web"
       },
@@ -422,6 +420,40 @@
       "reward": [
         {
           "id": "HardcoreQuesting:hearts"
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 78,
+      "y": 168,
+      "icon": {
+        "id": "terrafirmacraft:item.dyePowder"
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": "New",
+              "mob": "Bat",
+              "kills": 1,
+              "exact": false
+            },
+            {
+              "name": "New",
+              "mob": "squidTFC",
+              "kills": 1,
+              "exact": false
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
         }
       ]
     }

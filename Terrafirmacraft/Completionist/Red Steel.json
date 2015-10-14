@@ -129,8 +129,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 111,
-      "y": 46,
+      "x": 80,
+      "y": 31,
       "icon": {
         "id": "terrafirmacraft:Anvil",
         "damage": 7
@@ -141,17 +141,18 @@
           "items": [
             {
               "item": {
-                "id": "terrafirmacraft:item.Red Steel Hoe"
-              },
-              "precision": "NBT_FUZZY"
-            },
-            {
-              "item": {
-                "id": "terrafirmacraft:item.Red Steel Scythe"
+                "id": "terrafirmacraft:Anvil",
+                "damage": 7
               },
               "precision": "NBT_FUZZY"
             }
           ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
         }
       ]
     },
@@ -219,7 +220,7 @@
       "reward": [
         {
           "id": "HardcoreQuesting:hearts",
-          "damage": 1
+          "damage": 3
         }
       ]
     },
@@ -247,7 +248,7 @@
       "reward": [
         {
           "id": "HardcoreQuesting:hearts",
-          "damage": 1
+          "damage": 3
         }
       ]
     },
@@ -310,8 +311,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 43,
-      "y": 49,
+      "x": 40,
+      "y": 63,
       "icon": {
         "id": "terrafirmacraft:item.Red Steel Ingot"
       },
@@ -343,14 +344,14 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 76,
-      "y": 95,
+      "x": 120,
+      "y": 64,
       "icon": {
         "id": "terrafirmacraft:item.Red Steel Sheet"
       },
       "tasks": [
         {
-          "type": "CRAFT",
+          "type": "DETECT",
           "items": [
             {
               "item": {
@@ -371,6 +372,49 @@
               "precision": "NBT_FUZZY"
             }
           ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 80,
+      "y": 106,
+      "icon": {
+        "id": "terrafirmacraft:item.Red Steel Bucket Empty"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Red Steel Bucket Empty"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Red Steel Bucket Water"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.Red Steel Bucket Salt Water"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
         }
       ]
     }

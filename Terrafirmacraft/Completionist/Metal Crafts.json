@@ -1,0 +1,231 @@
+{
+  "name": "Metal Crafts",
+  "description": "No description",
+  "quests": [
+    {
+      "name": "Grilled",
+      "description": "Unnamed quest",
+      "x": 43,
+      "y": 51,
+      "icon": {
+        "id": "terrafirmacraft:Grill"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:Grill"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 235,
+      "y": 74,
+      "icon": {
+        "id": "terrafirmacraft:Hopper"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:Hopper"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 232,
+      "y": 46,
+      "icon": {
+        "id": "minecraft:minecart"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:minecart"
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:rail"
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:golden_rail"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 235,
+      "y": 99,
+      "icon": {
+        "id": "terrafirmacraft:OilLamp",
+        "damage": 1,
+        "nbt": "{FluidName:\"oliveoil\",Amount:250}"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:OilLamp",
+                "nbt": "{FluidName:\"oliveoil\",Amount:250}"
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:OilLamp",
+                "damage": 1,
+                "nbt": "{FluidName:\"oliveoil\",Amount:250}"
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:OilLamp",
+                "damage": 2,
+                "nbt": "{FluidName:\"oliveoil\",Amount:250}"
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:OilLamp",
+                "damage": 3,
+                "nbt": "{FluidName:\"oliveoil\",Amount:250}"
+              },
+              "precision": "FUZZY"
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:OilLamp",
+                "damage": 4,
+                "nbt": "{FluidName:\"oliveoil\",Amount:250}"
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iron Door",
+      "description": "Unnamed quest",
+      "x": 116,
+      "y": 52,
+      "icon": {
+        "id": "minecraft:iron_door"
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:iron_door"
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:iron_bars"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:item.flintAndSteel"
+              }
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:MetalTrapDoor",
+                "damage": 198
+              },
+              "precision": "FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Shear Pleasure",
+      "description": "Unnamed quest",
+      "x": 79,
+      "y": 89,
+      "icon": {
+        "id": "terrafirmacraft:item.shears"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.shears"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
+      ]
+    }
+  ]
+}

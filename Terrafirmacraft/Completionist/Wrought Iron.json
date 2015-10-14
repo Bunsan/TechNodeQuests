@@ -148,6 +148,12 @@
             }
           ]
         }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
       ]
     },
     {
@@ -312,7 +318,7 @@
       },
       "tasks": [
         {
-          "type": "CRAFT",
+          "type": "DETECT",
           "items": [
             {
               "item": {
@@ -345,7 +351,7 @@
       },
       "tasks": [
         {
-          "type": "CRAFT",
+          "type": "DETECT",
           "items": [
             {
               "item": {
@@ -366,6 +372,12 @@
               "precision": "NBT_FUZZY"
             }
           ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
         }
       ]
     },
@@ -522,6 +534,13 @@
               }
             }
           ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3,
+          "amount": 2
         }
       ]
     }

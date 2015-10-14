@@ -599,8 +599,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 43,
-      "y": 122,
+      "x": 189,
+      "y": 19,
       "icon": {
         "id": "terrafirmacraft:item.Ore",
         "damage": 16
@@ -609,11 +609,6 @@
         {
           "type": "DETECT",
           "items": [
-            {
-              "item": {
-                "id": "terrafirmacraft:item.coal"
-              }
-            },
             {
               "item": {
                 "id": "terrafirmacraft:item.Ore",
@@ -640,13 +635,19 @@
             }
           ]
         }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
       ]
     },
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 36,
-      "y": 179,
+      "x": 199,
+      "y": 98,
       "icon": {
         "id": "terrafirmacraft:item.Ore",
         "damage": 6
@@ -681,13 +682,19 @@
             }
           ]
         }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
       ]
     },
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 107,
-      "y": 178,
+      "x": 281,
+      "y": 94,
       "icon": {
         "id": "terrafirmacraft:item.Ore",
         "damage": 2
@@ -722,13 +729,19 @@
             }
           ]
         }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 1
+        }
       ]
     },
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 115,
-      "y": 120,
+      "x": 285,
+      "y": 19,
       "icon": {
         "id": "terrafirmacraft:item.Sterling Silver Ingot"
       },
@@ -758,8 +771,8 @@
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 70,
-      "y": 149,
+      "x": 237,
+      "y": 57,
       "icon": {
         "id": "terrafirmacraft:item.Ore",
         "damage": 17
@@ -788,13 +801,18 @@
             }
           ]
         }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts"
+        }
       ]
     },
     {
       "name": "Unnamed",
       "description": "Unnamed quest",
-      "x": 73,
-      "y": 120,
+      "x": 241,
+      "y": 18,
       "icon": {
         "id": "terrafirmacraft:item.Ore",
         "damage": 31
@@ -834,6 +852,150 @@
               }
             }
           ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 40,
+      "y": 117,
+      "icon": {
+        "id": "terrafirmacraft:BerryBush",
+        "damage": 9
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:BerryBush",
+                "damage": 1
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:BerryBush",
+                "damage": 2
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:BerryBush",
+                "damage": 3
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:BerryBush",
+                "damage": 4
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:BerryBush",
+                "damage": 5
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:BerryBush",
+                "damage": 6
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:BerryBush",
+                "damage": 7
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:BerryBush",
+                "damage": 8
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:BerryBush",
+                "damage": 9
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 114,
+      "y": 121,
+      "icon": {
+        "id": "terrafirmacraft:BerryBush",
+        "damage": 10
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:BerryBush",
+                "damage": 10
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
+      ]
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 240,
+      "y": 125,
+      "icon": {
+        "id": "terrafirmacraft:item.coal"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "terrafirmacraft:item.coal"
+              }
+            },
+            {
+              "item": {
+                "id": "terrafirmacraft:Peat"
+              }
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
         }
       ]
     }

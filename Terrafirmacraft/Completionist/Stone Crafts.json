@@ -1,0 +1,59 @@
+{
+  "name": "Stone Crafts",
+  "description": "No description",
+  "quests": [
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 39,
+      "y": 33,
+      "icon": {
+        "id": "terrafirmacraft:WallRawSed",
+        "damage": 7
+      },
+      "tasks": []
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 102,
+      "y": 33,
+      "icon": {
+        "id": "terrafirmacraft:SpawnMeter"
+      },
+      "tasks": []
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 71,
+      "y": 66,
+      "icon": {
+        "id": "terrafirmacraft:item.Mortar"
+      },
+      "tasks": []
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 43,
+      "y": 109,
+      "icon": {
+        "id": "terrafirmacraft:StoneSedSmooth",
+        "damage": 1
+      },
+      "tasks": []
+    },
+    {
+      "name": "Unnamed",
+      "description": "Unnamed quest",
+      "x": 112,
+      "y": 107,
+      "icon": {
+        "id": "terrafirmacraft:StoneIgInBrick",
+        "damage": 2
+      },
+      "tasks": []
+    }
+  ]
+}

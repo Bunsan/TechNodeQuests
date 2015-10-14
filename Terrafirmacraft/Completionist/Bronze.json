@@ -153,6 +153,12 @@
             }
           ]
         }
+      ],
+      "reward": [
+        {
+          "id": "HardcoreQuesting:hearts",
+          "damage": 3
+        }
       ]
     },
     {
@@ -372,44 +378,6 @@
             }
           ]
         }
-      ]
-    },
-    {
-      "name": "Unnamed",
-      "description": "Unnamed quest",
-      "x": 27,
-      "y": 140,
-      "icon": {
-        "id": "terrafirmacraft:item.Ore"
-      },
-      "tasks": [
-        {
-          "type": "DETECT",
-          "items": [
-            {
-              "item": {
-                "id": "terrafirmacraft:item.Small Ore"
-              }
-            },
-            {
-              "item": {
-                "id": "terrafirmacraft:item.Ore",
-                "damage": 49
-              }
-            },
-            {
-              "item": {
-                "id": "terrafirmacraft:item.Ore"
-              }
-            },
-            {
-              "item": {
-                "id": "terrafirmacraft:item.Ore",
-                "damage": 35
-              }
-            }
-          ]
-        }
       ],
       "reward": [
         {
@@ -453,47 +421,6 @@
               "item": {
                 "id": "terrafirmacraft:item.Ore",
                 "damage": 40
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Unnamed",
-      "description": "Unnamed quest",
-      "x": 123,
-      "y": 135,
-      "icon": {
-        "id": "terrafirmacraft:item.Ore",
-        "damage": 9
-      },
-      "tasks": [
-        {
-          "type": "DETECT",
-          "items": [
-            {
-              "item": {
-                "id": "terrafirmacraft:item.Small Ore",
-                "damage": 9
-              }
-            },
-            {
-              "item": {
-                "id": "terrafirmacraft:item.Ore",
-                "damage": 58
-              }
-            },
-            {
-              "item": {
-                "id": "terrafirmacraft:item.Ore",
-                "damage": 9
-              }
-            },
-            {
-              "item": {
-                "id": "terrafirmacraft:item.Ore",
-                "damage": 44
               }
             }
           ]
